@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartao de visitar online.
 
-- [visite o projeto online](https://maxcanoas.github.io/nlw-setup)
+- [visite o projeto online](https://maxcanoas.github.io/devlinks/)
 
 ## 🔖 Layout
 
